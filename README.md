@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-# color_picker
-=======
+# color picker
+# Snippet
+![image](https://github.com/user-attachments/assets/81d9f7f7-c504-44ae-b508-b2453cb909dd)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

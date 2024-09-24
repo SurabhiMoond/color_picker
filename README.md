@@ -1,6 +1,7 @@
 # color picker
 # Snippet
-![image](https://github.com/user-attachments/assets/81d9f7f7-c504-44ae-b508-b2453cb909dd)
+![image](https://github.com/user-attachments/assets/a5e52ab7-8886-44dd-8975-5a32c99f49ea)
+
 
 
 # Getting Started with Create React App

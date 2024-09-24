@@ -1,6 +1,10 @@
 # color picker
-# Snippet
-![image](https://github.com/user-attachments/assets/a5e52ab7-8886-44dd-8975-5a32c99f49ea)
+
+### Screenshots
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/a5e52ab7-8886-44dd-8975-5a32c99f49ea" alt="Desktop View" width="45%" />
+</div>
+
 
 
 
